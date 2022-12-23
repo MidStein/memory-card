@@ -1,3 +1,7 @@
+Test your memory with the Memory Card game. Click only on the cards that you have not clicked on previously. Bring your friends and have one match for each you. Let's see whose memory is the strongest. The cards will be shuffled everytime you click on one and that clicked cards would contain no hint if it was clicked. You can choose to remember the card either by name or image or both.
+
+With the use of various lifecycle methods or hooks, the game uses React's most important features like components, states and props and takes them to the next level. The current score will be kept track of on the scoreboard at the top along with the best score achieved yet.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,0 +1,16 @@
+.CardsDisplay {
+	margin: 16px;
+	display: grid;
+	gap: 32px;
+	grid-template-columns: repeat(auto-fill, 200px);
+}
+.card {
+	background-color: #e2e8f0;
+	padding: 16px;
+	border-radius: 8px;
+	margin: auto;
+	cursor: pointer;
+}
+.name {
+	text-align: center;
+}
